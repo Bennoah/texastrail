@@ -1,1 +1,3 @@
-# texastrail
+# maven-project
+
+Simple Maven Project
